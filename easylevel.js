@@ -26,9 +26,15 @@
 // year(6);
 ////////////////////////////////////////////////////////////////////////////////////////////////////////4
 
-function pow(v,i){
-    console.log(v*i);
-    
+// function calculatePower(voltage, current) {
+//     // Calculate the power using the formula P = V * I
+//     let power = voltage * current;
+//     return power;
+// }
+// calculatePower(6,9)
+
+//*******************************************************************************************************5
+function joinWithSomething(a) {
+    return "something " + a;
 }
-pow(3,8)
 
